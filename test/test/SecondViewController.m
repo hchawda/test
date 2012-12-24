@@ -20,7 +20,7 @@
     if (self) {
 		self.title = NSLocalizedString(@"Second", @"Second");
 		self.tabBarItem.image = [UIImage imageNamed:@"second"];
-    }// hi
+    }// hi test comment in version 1.0
 	
     return self;
 }
